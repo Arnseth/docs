@@ -9,7 +9,7 @@
     "groups": [
       {
         "group": "Cheatsheets",
-        "icon": "bars",
+        "icon": "clipboard-list",
         "pages": [
           "google-sheets",
           "cheatsheets/bash"
