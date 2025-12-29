@@ -9,15 +9,14 @@
     "groups": [
       {
         "group": "Cheatsheets",
-        "icon": "https://api.iconify.design/material-symbols-light:document-search-rounded.svg",
+        "icon": "page",
         "pages": [
-          "google-sheets",
           "cheatsheets/bash"
         ]
       },
       {
         "group": "VSCode",
-        "icon": "/AkarIconsVscodeFill.svg",
+        "icon": "cube",
         "pages": [
           "vs-code/create-tasks"
         ]
