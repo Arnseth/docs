@@ -9,7 +9,7 @@
     "groups": [
       {
         "group": "Cheatsheets",
-        "icon": "clipboard-list",
+        "icon": "https://api.iconify.design/material-symbols-light:document-search-rounded.svg",
         "pages": [
           "google-sheets",
           "cheatsheets/bash"
@@ -17,6 +17,7 @@
       },
       {
         "group": "VSCode",
+        "icon": "/AkarIconsVscodeFill.svg",
         "pages": [
           "vs-code/create-tasks"
         ]
