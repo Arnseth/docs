@@ -12,6 +12,12 @@
         "pages": [
           "google-sheets"
         ]
+      },
+      {
+        "group": "Cheatsheets",
+        "pages": [
+          "cheatsheets/bash"
+        ]
       }
     ]
   }
