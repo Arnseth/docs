@@ -8,14 +8,9 @@
   "navigation": {
     "groups": [
       {
-        "group": "Getting Started",
-        "pages": [
-          "google-sheets"
-        ]
-      },
-      {
         "group": "Cheatsheets",
         "pages": [
+          "google-sheets",
           "cheatsheets/bash"
         ]
       }
