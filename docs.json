@@ -9,14 +9,12 @@
     "groups": [
       {
         "group": "Cheatsheets",
-        "icon": "page",
         "pages": [
           "cheatsheets/bash"
         ]
       },
       {
         "group": "VSCode",
-        "icon": "cube",
         "pages": [
           "vs-code/create-tasks"
         ]
