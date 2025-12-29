@@ -1,0 +1,28 @@
+---
+title: "Create Tasks"
+description: "How to create user scoped tasks in vscode"
+---
+
+### Steps
+
+1. Open User Tasks (JSON File)
+2. Create Tasks inside tasks array
+
+**Example Task. **Runs the script in the currently open workspace directory.
+
+```json
+  {
+    "label": "Setup - Nuxt v4 + Python",
+    "type": "shell",
+    "command": "bash",
+    "args": ["/Users/kristian/Development/bash-scripts/setup_nuxt_python.sh"],
+    "options": {
+      "cwd": "${workspaceFolder}"
+    },
+    "problemMatcher": [],
+    "presentation": {
+      "reveal": "always",
+      "panel": "new"
+    }
+  }
+```
