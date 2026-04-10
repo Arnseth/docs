@@ -18,6 +18,12 @@
         "pages": [
           "vs-code/create-tasks"
         ]
+      },
+      {
+        "group": "API Docs",
+        "pages": [
+          "openapi_endpoints.json"
+        ]
       }
     ]
   },
