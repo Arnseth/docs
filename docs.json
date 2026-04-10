@@ -30,7 +30,7 @@
   "api": {
     "openapi": "/openapi_endpoints.json",
     "playground": {
-      "display": "simple"
+      "display": "interactive"
     }
   }
 }
