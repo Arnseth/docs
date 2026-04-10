@@ -20,5 +20,8 @@
         ]
       }
     ]
+  },
+  "api": {
+    "openapi": "/openapi_endpoints.json"
   }
 }
