@@ -6,6 +6,12 @@
     "primary": "#0D9373"
   },
   "navigation": {
+    "tabs": [
+      {
+        "tab": "API Reference",
+        "openapi": "openapi_endpoints.json"
+      }
+    ],
     "groups": [
       {
         "group": "Cheatsheets",
@@ -17,12 +23,6 @@
         "group": "VSCode",
         "pages": [
           "vs-code/create-tasks"
-        ]
-      },
-      {
-        "group": "API Docs",
-        "pages": [
-          "openapi_endpoints.json"
         ]
       }
     ]
