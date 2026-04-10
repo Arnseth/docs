@@ -22,6 +22,9 @@
     ]
   },
   "api": {
-    "openapi": "/openapi_endpoints.json"
+    "openapi": "/openapi_endpoints.json",
+    "playground": {
+      "display": "simple"
+    }
   }
 }
